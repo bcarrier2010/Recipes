@@ -1,8 +1,8 @@
 # All Solid Cocktails That I Didn't Come Up With
 
 ## Rum & Coke
-1.5 oz Bacardi Rum
-4oz Coke
+- 1.5 oz Bacardi Rum
+- 4oz Coke
 
 #### Instructions
 1. Fill tumbler with ice
@@ -11,8 +11,8 @@
 4. Stir
 
 ## Whiskey Ginger
-1.5 oz Whiskey (We used Jim Bean)
-4oz Ginger Ale
+- 1.5 oz Whiskey (We used Jim Bean)
+- 4oz Ginger Ale
 
 ### Instructions
 1. Filll tumbler with ice

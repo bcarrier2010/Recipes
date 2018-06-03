@@ -1,9 +1,9 @@
 # Lemon Drop
-1.5 oz Vodka (I use Absolute for mixing)
-1 oz Triple Sec
-.5 oz Simple Syrup
-1.5 oz Lemon Juice (Fresh Squeezed!)
-Fine sugar for rimming glass
+- 1.5 oz Vodka (I use Absolute for mixing)
+- 1 oz Triple Sec
+- .5 oz Simple Syrup
+- 1.5 oz Lemon Juice (Fresh Squeezed!)
+- Fine sugar for rimming glass
 
 ### Instructions
 1. Fill Shaker with ice
