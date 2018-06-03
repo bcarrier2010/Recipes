@@ -48,7 +48,7 @@ Substitute Gin for Vodka and add 2-3 dashes of aromatic bitters.
 - Club Soda
 - Ice
 
-### Instructions
+##### Instructions
 1. Fill glass with ice
 2. Add Gin or Vodka, Orange juice and simple syrup. Stir until slightly melted about 15 seconds
 3. Top with club soda

@@ -14,7 +14,7 @@
 - 1.5 oz Whiskey (We used Jim Bean)
 - 4oz Ginger Ale
 
-### Instructions
+#### Instructions
 1. Filll tumbler with ice
 2. Add Whiskey
 3. top off with Ginger Ale
